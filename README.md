@@ -1,11 +1,12 @@
 # freecodecamp-projects
 
-This project was built while completing the Responsive Web Design curriculum on freeCodeCamp.
+A beginner HTML project built while completing the Responsive Web Design certification on freeCodeCamp.
 
 ## Technologies
 - HTML5
 
 ## Purpose
-A beginner project to practice HTML elements, forms, images, and semantic markup.
+This repository is part of my web development learning journey and GitHub 100-Day Challenge.
 
-This repository is for educational purposes.
+## Acknowledgements
+Built by following the freeCodeCamp Responsive Web Design curriculum for educational purposes.
