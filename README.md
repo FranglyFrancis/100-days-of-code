@@ -1,12 +1,11 @@
-# freecodecamp-projects
+# 100 Days of Code – MEAN Stack Journey
 
-A beginner HTML project built while completing the Responsive Web Design certification on freeCodeCamp.
+This repository documents my journey to becoming a MEAN Stack Developer.
 
-## Technologies
-- HTML5
+The first part of this journey follows the freeCodeCamp Responsive Web Design curriculum, along with additional practice projects and personal modifications.
 
-## Purpose
-This repository is part of my web development learning journey and GitHub 100-Day Challenge.
+## Completed Projects
 
-## Acknowledgements
-Built by following the freeCodeCamp Responsive Web Design curriculum for educational purposes.
+✅ Day 01 - Dog Photo App (HTML)
+
+
