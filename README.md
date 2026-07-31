@@ -8,4 +8,6 @@ The first part of this journey follows the freeCodeCamp Responsive Web Design cu
 
 ✅ Day 01 - Dog Photo App (HTML)
 
+✅ Day 02 - Recipe Page (HTML)
+
 
