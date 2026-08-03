@@ -10,4 +10,8 @@ The first part of this journey follows the freeCodeCamp Responsive Web Design cu
 
 ✅ Day 02 - Recipe Page (HTML)
 
+✅ Day 03 - Bookstore Page
+
+
+
 
