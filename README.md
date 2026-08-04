@@ -12,6 +12,10 @@ The first part of this journey follows the freeCodeCamp Responsive Web Design cu
 
 ✅ Day 03 - Bookstore Page
 
+✅ Day 04 - Travel Agency Page
+
+
+
 
 
 
