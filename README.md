@@ -20,6 +20,7 @@ The first part of this journey follows the freeCodeCamp Responsive Web Design cu
 
 ✅ Day 07 - HTML Audio and Video Player
 
+✅ Day 07 - A Heart Icon
 
 
 
