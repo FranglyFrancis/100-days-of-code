@@ -24,6 +24,9 @@ The first part of this journey follows the freeCodeCamp Responsive Web Design cu
 
 ✅ Day 07- Videos in an iframe
 
+✅ Day 07- Video Compilation
+
+
 
 
 
