@@ -18,6 +18,10 @@ The first part of this journey follows the freeCodeCamp Responsive Web Design cu
 
 ✅ Day 06 - HTML Video Player
 
+✅ Day 07 - HTML Audio and Video Player
+
+
+
 
 
 
