@@ -14,6 +14,10 @@ The first part of this journey follows the freeCodeCamp Responsive Web Design cu
 
 ✅ Day 04 - Travel Agency Page
 
+✅ Day 05 - HTML Music Player
+
+
+
 
 
 
